@@ -4,15 +4,15 @@ This project displays real-time Bitcoin prices on an LCD screen using an Arduino
 
 ## Requirements
 
-- **Hardware**:
-  - Arduino Uno or Nano
-  - 16x2 LCD with I2C
-  - Jumper wires
-  - Breadboard (optional)
+### Hardware:
+- Arduino Uno or Nano
+- 16x2 LCD with I2C
+- Jumper wires
+- Breadboard (optional)
 
-- **Software**:
-  - Python 3.x
-  - Internet connection
+### Software:
+- Python 3.x
+- Internet connection
 
 ## Setup
 
